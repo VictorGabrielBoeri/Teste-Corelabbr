@@ -1,0 +1,20 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Build/Dist
+build/
+dist/
+coverage/
+
+# OS
+.DS_Store
+
+# Env/Secrets
+.env
+*.env
+
+# SQLite
+sqlite/*.sqlite3
+sqlite/*.db
+sqlite/*-journal
